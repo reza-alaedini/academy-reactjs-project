@@ -1,0 +1,22 @@
+.container404{
+    padding: 60px 20px;
+}
+.number404{
+    color: hotpink;
+    font-size: 150px;
+}
+.text404{
+    font-size: 30px;
+}
+.homeLink{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.arrow404{
+    position: relative;
+    border: solid #4287c0;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(135deg);
+}
